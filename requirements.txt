@@ -1,0 +1,3 @@
+functions-framework==3.*
+google-cloud-enterpriseknowledgegraph==0.3.2
+proto-plus==1.22.2
